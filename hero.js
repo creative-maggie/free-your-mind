@@ -52,7 +52,7 @@
 
     }
     
-    //setInterval(drawCircle, 600);
+    setInterval(drawCircle, 600);
 
 
 })();
